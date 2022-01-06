@@ -1,0 +1,8 @@
+.vs
+.vscode
+.idea
+.git
+cmake-build-debug
+out
+build
+test/.vs
