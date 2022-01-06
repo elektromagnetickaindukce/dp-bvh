@@ -22,7 +22,7 @@ benchmark.exe \[options\] file.obj
 ### Sample results
 Heatmap of ray-tracing performance using AABBs (left) and using the proposed hybrid hierarchy with cylinders.
 
-	<div class="screenshots">
+<div class="screenshots">
     <a href="render_womanhead_boxes_r25.png"><img class="screenshot" src="render_womanhead_boxes_r25.png" alt="render_womanhead_boxes_r25" width="360" height="240"></a>
     <a href="render_womanhead_hybrid_r25_it5.png"><img class="screenshot" src="render_womanhead_hybrid_r25_it5.png" alt="render_womanhead_hybrid_r25_it5" width="360" height="240"></a>
-	</div>
+</div>
