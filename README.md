@@ -1,5 +1,6 @@
 # Bounding Volume Hierarchies for Oblong Objects
-Master Thesis at the Czech Technical University in Prague
+Master Thesis at the Czech Technical University in Prague (https://dspace.cvut.cz/handle/10467/96751?locale-attribute=en)
+
 Author: Emese Szabó
 
 This is a modified implementation of a BVH builder library by Arsène Pérard-Gayot. 
